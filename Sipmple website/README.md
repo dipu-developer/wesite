@@ -38,5 +38,5 @@ I'm a Python Django  developer...
 
 -Tablet
 
-<img src="https://user-images.githubusercontent.com/75806982/214510193-cea85ca3-2cb7-45df-960c-76ee0890ba1d.png)" width="678" height="978">
+<img src="https://user-images.githubusercontent.com/75806982/214510193-cea85ca3-2cb7-45df-960c-76ee0890ba1d.png" width="678" height="978">
 
