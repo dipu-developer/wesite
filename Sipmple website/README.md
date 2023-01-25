@@ -28,7 +28,7 @@ I'm a Python Django  developer...
 ## ScreenShort
 -Destop View
 
-![Destop View](https://user-images.githubusercontent.com/75806982/214510017-f9d3336b-cc8a-460d-af9c-571a54e607bd.png)
+![Destop View] <img src="https://user-images.githubusercontent.com/75806982/214510017-f9d3336b-cc8a-460d-af9c-571a54e607bd.png" width="678" height="978">
 
 
 -Mobile View
