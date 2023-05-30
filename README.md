@@ -9,7 +9,7 @@ This side is use to learn the Responsive website in simple way..
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a full stack developer..
 
 
 ## 🔗 Links
